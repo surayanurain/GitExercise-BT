@@ -4,11 +4,5 @@ He takes a bath.
 He has breakfast.
 Then he . . .
 He goes to class. 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 Suddenly, the lecturer give a pop quiz.
-=======
 After buying a sandwich from the bakery
->>>>>>> main
->>>>>>> at-the-class
