@@ -7,3 +7,4 @@ Then he watch YouTube.
 He goes to class. 
 Suddenly, the lecturer give a pop quiz.
 about GitHub.
+We learn about collaborating in GitHub
