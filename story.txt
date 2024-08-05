@@ -3,7 +3,11 @@ He brushes his teeth.
 He takes a bath.
 He has breakfast.
 which is egg and toast.
+<<<<<<< HEAD
 Then he watch youtube while waiting for the bus.
+=======
+Then he watch YouTube.
+>>>>>>> 40ca63913d10bfd6ecee1ffd92cb776dd45472aa
 He goes to class. 
 Suddenly, the lecturer give a pop quiz.
 about GitHub.
